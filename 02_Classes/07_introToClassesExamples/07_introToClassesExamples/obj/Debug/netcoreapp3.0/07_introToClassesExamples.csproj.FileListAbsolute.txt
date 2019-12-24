@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/bin/Debug/netcoreapp3.0/07_introToClassesExamples
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/bin/Debug/netcoreapp3.0/07_introToClassesExamples.deps.json
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/bin/Debug/netcoreapp3.0/07_introToClassesExamples.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/bin/Debug/netcoreapp3.0/07_introToClassesExamples.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/bin/Debug/netcoreapp3.0/07_introToClassesExamples.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/bin/Debug/netcoreapp3.0/07_introToClassesExamples.pdb
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/obj/Debug/netcoreapp3.0/07_introToClassesExamples.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/obj/Debug/netcoreapp3.0/07_introToClassesExamples.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/obj/Debug/netcoreapp3.0/07_introToClassesExamples.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/obj/Debug/netcoreapp3.0/07_introToClassesExamples.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/07_introToClassesExamples/07_introToClassesExamples/obj/Debug/netcoreapp3.0/07_introToClassesExamples.pdb
