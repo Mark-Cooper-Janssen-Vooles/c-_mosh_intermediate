@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/bin/Debug/netcoreapp3.0/18_InheritanceDEMO
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/bin/Debug/netcoreapp3.0/18_InheritanceDEMO.deps.json
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/bin/Debug/netcoreapp3.0/18_InheritanceDEMO.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/bin/Debug/netcoreapp3.0/18_InheritanceDEMO.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/bin/Debug/netcoreapp3.0/18_InheritanceDEMO.dll
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/bin/Debug/netcoreapp3.0/18_InheritanceDEMO.pdb
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/obj/Debug/netcoreapp3.0/18_InheritanceDEMO.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/obj/Debug/netcoreapp3.0/18_InheritanceDEMO.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/obj/Debug/netcoreapp3.0/18_InheritanceDEMO.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/obj/Debug/netcoreapp3.0/18_InheritanceDEMO.dll
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/18_InheritanceDEMO/18_InheritanceDEMO/obj/Debug/netcoreapp3.0/18_InheritanceDEMO.pdb

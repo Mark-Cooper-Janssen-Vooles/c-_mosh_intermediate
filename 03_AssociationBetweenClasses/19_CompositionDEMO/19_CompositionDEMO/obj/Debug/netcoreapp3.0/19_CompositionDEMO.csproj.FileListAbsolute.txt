@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/bin/Debug/netcoreapp3.0/19_CompositionDEMO
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/bin/Debug/netcoreapp3.0/19_CompositionDEMO.deps.json
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/bin/Debug/netcoreapp3.0/19_CompositionDEMO.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/bin/Debug/netcoreapp3.0/19_CompositionDEMO.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/bin/Debug/netcoreapp3.0/19_CompositionDEMO.dll
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/bin/Debug/netcoreapp3.0/19_CompositionDEMO.pdb
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/obj/Debug/netcoreapp3.0/19_CompositionDEMO.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/obj/Debug/netcoreapp3.0/19_CompositionDEMO.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/obj/Debug/netcoreapp3.0/19_CompositionDEMO.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/obj/Debug/netcoreapp3.0/19_CompositionDEMO.dll
+/Users/mark/c#_mosh_intermediate/03_AssociationBetweenClasses/19_CompositionDEMO/19_CompositionDEMO/obj/Debug/netcoreapp3.0/19_CompositionDEMO.pdb
