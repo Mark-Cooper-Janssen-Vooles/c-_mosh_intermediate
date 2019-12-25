@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/bin/Debug/netcoreapp3.0/13_Properties
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/bin/Debug/netcoreapp3.0/13_Properties.deps.json
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/bin/Debug/netcoreapp3.0/13_Properties.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/bin/Debug/netcoreapp3.0/13_Properties.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/bin/Debug/netcoreapp3.0/13_Properties.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/bin/Debug/netcoreapp3.0/13_Properties.pdb
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/obj/Debug/netcoreapp3.0/13_Properties.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/obj/Debug/netcoreapp3.0/13_Properties.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/obj/Debug/netcoreapp3.0/13_Properties.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/obj/Debug/netcoreapp3.0/13_Properties.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/13_Properties/13_Properties/obj/Debug/netcoreapp3.0/13_Properties.pdb

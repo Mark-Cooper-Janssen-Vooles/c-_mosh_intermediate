@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/bin/Debug/netcoreapp3.0/15_Challenges
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/bin/Debug/netcoreapp3.0/15_Challenges.deps.json
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/bin/Debug/netcoreapp3.0/15_Challenges.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/bin/Debug/netcoreapp3.0/15_Challenges.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/bin/Debug/netcoreapp3.0/15_Challenges.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/bin/Debug/netcoreapp3.0/15_Challenges.pdb
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/obj/Debug/netcoreapp3.0/15_Challenges.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/obj/Debug/netcoreapp3.0/15_Challenges.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/obj/Debug/netcoreapp3.0/15_Challenges.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/obj/Debug/netcoreapp3.0/15_Challenges.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/15_Challenges/15_Challenges/obj/Debug/netcoreapp3.0/15_Challenges.pdb

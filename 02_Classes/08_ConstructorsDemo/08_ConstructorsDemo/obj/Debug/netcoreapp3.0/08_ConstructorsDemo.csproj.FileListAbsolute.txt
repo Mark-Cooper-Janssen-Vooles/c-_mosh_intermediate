@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/bin/Debug/netcoreapp3.0/08_ConstructorsDemo
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/bin/Debug/netcoreapp3.0/08_ConstructorsDemo.deps.json
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/bin/Debug/netcoreapp3.0/08_ConstructorsDemo.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/bin/Debug/netcoreapp3.0/08_ConstructorsDemo.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/bin/Debug/netcoreapp3.0/08_ConstructorsDemo.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/bin/Debug/netcoreapp3.0/08_ConstructorsDemo.pdb
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/obj/Debug/netcoreapp3.0/08_ConstructorsDemo.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/obj/Debug/netcoreapp3.0/08_ConstructorsDemo.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/obj/Debug/netcoreapp3.0/08_ConstructorsDemo.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/obj/Debug/netcoreapp3.0/08_ConstructorsDemo.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/08_ConstructorsDemo/08_ConstructorsDemo/obj/Debug/netcoreapp3.0/08_ConstructorsDemo.pdb

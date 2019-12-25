@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{28D3A2C3-ECF2-47D6-BBA9-D756EB4C89B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="08_ConstructorsDemo/Customer.cs">
+    <Files>
+      <File FileName="08_ConstructorsDemo/Program.cs" Line="15" Column="24" />
+      <File FileName="08_ConstructorsDemo/Customer.cs" Line="33" Column="167" />
+      <File FileName="08_ConstructorsDemo/Order.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="08_ConstructorsDemo" expanded="True">
+            <Node name="08_ConstructorsDemo" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.08__ConstructorsDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

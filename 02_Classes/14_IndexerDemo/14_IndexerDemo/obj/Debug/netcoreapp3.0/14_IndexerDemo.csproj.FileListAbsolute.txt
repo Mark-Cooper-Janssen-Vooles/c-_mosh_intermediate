@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/bin/Debug/netcoreapp3.0/14_IndexerDemo
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/bin/Debug/netcoreapp3.0/14_IndexerDemo.deps.json
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/bin/Debug/netcoreapp3.0/14_IndexerDemo.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/bin/Debug/netcoreapp3.0/14_IndexerDemo.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/bin/Debug/netcoreapp3.0/14_IndexerDemo.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/bin/Debug/netcoreapp3.0/14_IndexerDemo.pdb
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/obj/Debug/netcoreapp3.0/14_IndexerDemo.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/obj/Debug/netcoreapp3.0/14_IndexerDemo.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/obj/Debug/netcoreapp3.0/14_IndexerDemo.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/obj/Debug/netcoreapp3.0/14_IndexerDemo.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/14_IndexerDemo/14_IndexerDemo/obj/Debug/netcoreapp3.0/14_IndexerDemo.pdb

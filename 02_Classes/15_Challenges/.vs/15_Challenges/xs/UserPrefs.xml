@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{7487A7D4-8955-45F1-B7D3-DBDF00E8D107}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="07_introToClassesExamples/Program.cs">
+﻿<Properties StartupConfiguration="{4C283E41-0627-45F2-BF80-A6A34E440949}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="15_Challenges/Program.cs">
     <Files>
-      <File FileName="07_introToClassesExamples/Program.cs" Line="46" Column="39" />
+      <File FileName="15_Challenges/Program.cs" Line="15" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="07_introToClassesExamples" expanded="True">
-            <Node name="07_introToClassesExamples" expanded="True">
+          <Node name="15_Challenges" expanded="True">
+            <Node name="15_Challenges" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,10 +16,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.07__introToClassesExamples PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.15__Challenges PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/bin/Debug/netcoreapp3.0/12_AccessModifiersDEMO
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/bin/Debug/netcoreapp3.0/12_AccessModifiersDEMO.deps.json
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/bin/Debug/netcoreapp3.0/12_AccessModifiersDEMO.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/bin/Debug/netcoreapp3.0/12_AccessModifiersDEMO.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/bin/Debug/netcoreapp3.0/12_AccessModifiersDEMO.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/bin/Debug/netcoreapp3.0/12_AccessModifiersDEMO.pdb
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/obj/Debug/netcoreapp3.0/12_AccessModifiersDEMO.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/obj/Debug/netcoreapp3.0/12_AccessModifiersDEMO.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/obj/Debug/netcoreapp3.0/12_AccessModifiersDEMO.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/obj/Debug/netcoreapp3.0/12_AccessModifiersDEMO.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/12_AccessModifiersDEMO/12_AccessModifiersDEMO/obj/Debug/netcoreapp3.0/12_AccessModifiersDEMO.pdb

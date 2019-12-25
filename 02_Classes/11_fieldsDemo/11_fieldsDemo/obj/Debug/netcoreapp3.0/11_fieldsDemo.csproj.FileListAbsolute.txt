@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/bin/Debug/netcoreapp3.0/11_fieldsDemo
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/bin/Debug/netcoreapp3.0/11_fieldsDemo.deps.json
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/bin/Debug/netcoreapp3.0/11_fieldsDemo.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/bin/Debug/netcoreapp3.0/11_fieldsDemo.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/bin/Debug/netcoreapp3.0/11_fieldsDemo.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/bin/Debug/netcoreapp3.0/11_fieldsDemo.pdb
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/obj/Debug/netcoreapp3.0/11_fieldsDemo.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/obj/Debug/netcoreapp3.0/11_fieldsDemo.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/obj/Debug/netcoreapp3.0/11_fieldsDemo.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/obj/Debug/netcoreapp3.0/11_fieldsDemo.dll
+/Users/mark/c#_mosh_intermediate/02_Classes/11_fieldsDemo/11_fieldsDemo/obj/Debug/netcoreapp3.0/11_fieldsDemo.pdb

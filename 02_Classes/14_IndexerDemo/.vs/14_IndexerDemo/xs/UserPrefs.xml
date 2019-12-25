@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{7487A7D4-8955-45F1-B7D3-DBDF00E8D107}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="07_introToClassesExamples/Program.cs">
+﻿<Properties StartupConfiguration="{2F7ED24D-C2A6-499A-8BB0-201F26A9D66E}|Default">
+  <MonoDevelop.Ide.ItemProperties.14__IndexerDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="14_IndexerDemo/Program.cs">
     <Files>
-      <File FileName="07_introToClassesExamples/Program.cs" Line="46" Column="39" />
+      <File FileName="14_IndexerDemo/Program.cs" Line="9" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="07_introToClassesExamples" expanded="True">
-            <Node name="07_introToClassesExamples" expanded="True">
+          <Node name="14_IndexerDemo" expanded="True">
+            <Node name="14_IndexerDemo" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +17,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.07__introToClassesExamples PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
