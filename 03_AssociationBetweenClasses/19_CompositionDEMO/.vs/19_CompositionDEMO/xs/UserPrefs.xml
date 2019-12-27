@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{0061BE93-E59E-4619-9E46-2E33103114B5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="19_CompositionDEMO/Program.cs">
     <Files>
-      <File FileName="19_CompositionDEMO/Program.cs" Line="4" Column="2" />
+      <File FileName="19_CompositionDEMO/Program.cs" Line="16" Column="34" />
       <File FileName="19_CompositionDEMO/Logger.cs" Line="10" Column="6" />
       <File FileName="19_CompositionDEMO/DBMigrator.cs" Line="17" Column="6" />
-      <File FileName="19_CompositionDEMO/Installer.cs" Line="16" Column="6" />
+      <File FileName="19_CompositionDEMO/Installer.cs" Line="15" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.19__CompositionDEMO FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.19__CompositionDEMO PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

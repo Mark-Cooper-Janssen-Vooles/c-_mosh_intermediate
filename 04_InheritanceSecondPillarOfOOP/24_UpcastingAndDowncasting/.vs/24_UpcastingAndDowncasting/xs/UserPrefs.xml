@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{044D2ABF-9D8E-4106-A8CD-943049714B38}|Default">
+  <MonoDevelop.Ide.ItemProperties.24__UpcastingAndDowncasting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="24_UpcastingAndDowncasting/Program.cs">
+    <Files>
+      <File FileName="24_UpcastingAndDowncasting/Program.cs" Line="51" Column="79" />
+      <File FileName="24_UpcastingAndDowncasting/Shape.cs" Line="15" Column="6" />
+      <File FileName="24_UpcastingAndDowncasting/Text.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="24_UpcastingAndDowncasting" expanded="True">
+            <Node name="24_UpcastingAndDowncasting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/22_AccessModifiersDEMO/22_AccessModifiersDEMO.csproj": {}
+  },
+  "projects": {
+    "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/22_AccessModifiersDEMO/22_AccessModifiersDEMO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/22_AccessModifiersDEMO/22_AccessModifiersDEMO.csproj",
+        "projectName": "22_AccessModifiersDEMO",
+        "projectPath": "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/22_AccessModifiersDEMO/22_AccessModifiersDEMO.csproj",
+        "packagesPath": "/Users/mark/.nuget/packages/",
+        "outputPath": "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/22_AccessModifiersDEMO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mark/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/Amazon/Amazon.csproj": {
+                "projectPath": "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/Amazon/Amazon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/Amazon/Amazon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/Amazon/Amazon.csproj",
+        "projectName": "Amazon",
+        "projectPath": "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/Amazon/Amazon.csproj",
+        "packagesPath": "/Users/mark/.nuget/packages/",
+        "outputPath": "/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/22_AccessModifiersDEMO/Amazon/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mark/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

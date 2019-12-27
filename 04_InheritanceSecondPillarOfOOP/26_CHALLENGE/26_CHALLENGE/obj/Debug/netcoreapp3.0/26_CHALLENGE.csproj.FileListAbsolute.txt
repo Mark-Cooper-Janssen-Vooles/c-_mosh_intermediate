@@ -1,0 +1,11 @@
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/bin/Debug/netcoreapp3.0/26_CHALLENGE
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/bin/Debug/netcoreapp3.0/26_CHALLENGE.deps.json
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/bin/Debug/netcoreapp3.0/26_CHALLENGE.runtimeconfig.json
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/bin/Debug/netcoreapp3.0/26_CHALLENGE.runtimeconfig.dev.json
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/bin/Debug/netcoreapp3.0/26_CHALLENGE.dll
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/bin/Debug/netcoreapp3.0/26_CHALLENGE.pdb
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/obj/Debug/netcoreapp3.0/26_CHALLENGE.csprojAssemblyReference.cache
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/obj/Debug/netcoreapp3.0/26_CHALLENGE.AssemblyInfoInputs.cache
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/obj/Debug/netcoreapp3.0/26_CHALLENGE.AssemblyInfo.cs
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/obj/Debug/netcoreapp3.0/26_CHALLENGE.dll
+/Users/mark/c#_mosh_intermediate/04_InheritanceSecondPillarOfOOP/26_CHALLENGE/26_CHALLENGE/obj/Debug/netcoreapp3.0/26_CHALLENGE.pdb

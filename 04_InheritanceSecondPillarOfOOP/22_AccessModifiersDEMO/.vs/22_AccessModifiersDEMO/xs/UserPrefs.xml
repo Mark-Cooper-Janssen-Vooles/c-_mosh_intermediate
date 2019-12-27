@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{059DE581-DE72-4651-95C0-86175D4F652F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Amazon FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="22_AccessModifiersDEMO" expanded="True">
+            <Node name="22_AccessModifiersDEMO" expanded="True" />
+            <Node name="Amazon" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.22__AccessModifiersDEMO FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
