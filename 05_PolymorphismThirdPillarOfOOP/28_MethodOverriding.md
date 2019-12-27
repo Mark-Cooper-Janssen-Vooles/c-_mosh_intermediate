@@ -43,3 +43,31 @@ public class Circle : Shape
 }
 
 //to change its implementation, we use the "override" keyword in the derived class.
+
+
+---
+
+
+
+    public class Shape
+    {
+        public int Width { get; set; }
+        public int Height { get; set; }
+        public Position Position { get; set; }
+
+        public virtual void Draw()
+        {
+
+        }
+    }
+
+    public class Circle : Shape
+    {
+        public override void Draw()
+        {
+            //write any code here specific to the circle class itself
+
+            //if we need to, we can also pass info specific to the draw method in the parent class itself. 
+            base.Draw(); //base is a reference to the parents class 
+        }
+    }
